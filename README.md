@@ -43,11 +43,11 @@ An AI-powered CSV analysis application that allows users to upload datasets and 
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.jpg)
 
 ### 💬 AI Chat & Dataset Analysis
 
-![Chat Interface](screenshots/next.png)
+![Chat Interface](screenshots/next.jpg)
 
 ---
 
